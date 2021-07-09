@@ -4,5 +4,5 @@
 # ignore ALL files in ANY directory named temp
 temp/
 
-#ignore local history
+#ignore more
 .history/
