@@ -14,7 +14,7 @@
   padding: 0;
   margin: 0;
   -webkit-box-sizing: inherit;
-          box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 body {
@@ -23,8 +23,8 @@ body {
 
 html {
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
   font-size: 62.5%;
 }
 
@@ -100,10 +100,10 @@ header h2 {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -ms-flex-pack: distribute;
-      justify-content: space-around;
+  justify-content: space-around;
   padding-bottom: 12px;
 }
 
@@ -127,11 +127,11 @@ header h2 {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   background-color: var(--primary-color);
 }
 
@@ -168,7 +168,7 @@ header h2 {
   margin-top: 410px;
   margin-bottom: 20px;
   padding: 14px 12px;
-  box-shadow: 0px 7px 29px 0px rgba(100, 100, 111, 0.2) ;
+  box-shadow: 0px 7px 29px 0px rgba(100, 100, 111, 0.2);
 }
 
 .song {
@@ -176,13 +176,13 @@ header h2 {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   background-color: #fff;
   padding: 8px 16px;
   border-radius: 5px;
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
-          box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
 }
 
 .song + .song {
@@ -213,8 +213,8 @@ header h2 {
 
 .song .body {
   -webkit-box-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
+  -ms-flex: 1;
+  flex: 1;
   padding: 0 16px;
 }
 

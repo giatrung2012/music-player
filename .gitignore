@@ -1,8 +1,10 @@
-# ignore ALL .log files
-*.log
-
-# ignore ALL files in ANY directory named temp
 temp/
-
-#ignore more
-.history/
+node_modules/
+dist
+.eslintrc.*
+.prettierrc.*
+*.svg
+*.ico
+*.json
+*.log
+*.lock
